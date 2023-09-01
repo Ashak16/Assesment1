@@ -1,0 +1,326 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    color:  #011533
+    
+ } 
+ .title-text{
+     display: flex;
+     margin-left: 30px;
+ }
+ a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color:  #000000;
+    margin-right: 30px;
+ }
+ .container1{
+    width: 100%;
+    background-image: url(images/hero-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 120px;
+    
+ }
+ .txt h2{
+    width: 28%;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 40px;
+ }
+ .txt p{
+    width: 27%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+ }
+ .head{
+     width: 100%;
+ }
+ .head h3{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+ }
+ .par{
+   display: flex;
+   justify-content: center;
+   gap: 30px;
+   font-family: 'Roboto', sans-serif;
+ }
+ .tech-type-{
+   display: flex;
+   flex-direction: column;
+   width: 20%;
+
+ }
+ .tech-type-2{
+   display: flex;
+   flex-direction: column;
+ }
+.tech-type- img{
+           width: 6%;
+           margin-top: auto;
+}
+.tech-type-2 img{
+   width: 6%;
+   margin-top: auto;
+}
+.side{
+    margin-left: 150px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container3{
+   width: 100%;
+}  
+.para2{
+   width: 60%;
+   display: flex;
+    
+   background-image: url(images/technology.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 120px; 
+    margin: auto;
+    border-radius: 10px;
+}
+.semi{
+    width: 60%;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 400px;
+    color: #000000;
+   
+ }
+ .container4{
+    width: 100%;
+    
+ }
+.side2{
+  margin-left: 100px;  
+  font-family: 'PT Sans', sans-serif;
+}
+.para3{
+   width: 90%;
+   display: flex;
+   margin-left: 129.5px;
+   gap: 50px;
+   font-family: 'PT Sans', sans-serif;
+}
+.patimg{
+   width: 100%;
+}
+.patimg img{
+   width: 80%;
+   margin-top: 97px;
+}
+.cir{
+   width: 70%;
+   margin-top: 90px;
+}
+.cir p{
+   margin-top: 55px;
+   font-family: 'Roboto', sans-serif;
+   color: rgb(0, 0, 0);
+}
+.container5{
+   width: 100%;
+   display: flex;
+   justify-content: space-evenly;
+   font-family: 'Roboto', sans-serif;
+   font-size: 13px;
+  
+}
+.stream{
+   width: 20%;
+   display: flex;
+   gap: 20px;
+   border: 1px solid #DADADA  ;
+}
+.st2{
+   width: 100%;
+}
+.st1{
+   display: flex;
+   align-items: center;
+   background-color: #DADADA;
+   
+}
+.scale{
+   width: 20%;
+   display: flex;
+   gap: 20px;
+   border: 1px solid #DADADA  ;
+}
+.liner{
+   display: flex;
+   align-items: center;
+   background-color: #DADADA;
+   
+}
+.app{
+   width: 20%;
+   display: flex;
+   gap: 20px;
+   border: 1px solid #DADADA  ;
+}
+.del{
+   display: flex;
+   align-items: center;
+   background-color: #DADADA;
+}
+
+.container6{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;   
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+} 
+.of{
+   width: 20%;
+   display: flex;
+   gap: 20px;
+   border: 1px solid #DADADA  ;
+}
+.pas{
+   display: flex;
+   align-items: center;
+   background-color: #DADADA;
+}
+.rock{
+   width: 20%;
+   display: flex;
+   gap: 20px;
+   border: 1px solid #DADADA  ;
+}
+.la{
+   display: flex;
+   align-items: center;
+   background-color: #DADADA;
+}
+.bug{
+   width: 20%;
+   display: flex;
+   gap: 20px;
+   border: 1px solid #DADADA  ;
+}
+.report{
+   display: flex;
+   align-items: center;
+   background-color: #DADADA;
+}
+.container7{
+   width: 100%;
+   display: flex;
+   justify-content: space-evenly;  
+   margin-top: 30px; 
+   font-family: 'Roboto', sans-serif;
+   font-size: 13px;
+}
+.vis{
+   width: 20%;
+   display: flex;
+   gap: 20px;
+   border: 1px solid #DADADA  ;
+}
+.bil{
+   display: flex;
+   align-items: center;
+   background-color: #DADADA;
+}
+.acute{
+   width: 20%;
+   display: flex;
+   gap: 20px;
+   border: 1px solid #DADADA  ;
+}
+.ac{
+   display: flex;
+   align-items: center;
+   background-color: #DADADA;
+}
+.scr{
+   width: 20%;
+   display: flex;
+   gap: 20px;
+   border: 1px solid #DADADA  ;
+}
+.screen{
+   display: flex;
+   align-items: center;
+   background-color: #DADADA;
+}
+.cont8{
+   width: 100%;
+   margin-top: 20px;
+   margin-left: 125px;
+   font-family: 'Roboto', sans-serif;
+   font-size: 13px;
+} 
+.down{
+   width: 20%;
+   display: flex;
+   gap: 20px;
+   border: 1px solid #DADADA  ;
+}
+.move{
+   display: flex;
+   align-items: center;
+   background-color: #DADADA;
+}
+.ben{
+   font-family: 'Roboto', sans-serif;
+   margin-left: 128px;
+}
+.container9{
+   width: 100%;
+   background-color: #DADADA;
+   font-family: 'PT Sans', sans-serif;
+}
+table{
+   margin-top: 60px;
+}
+table th,td{
+   border: 1px solid white;
+   border-radius: 5px;
+}
+table th{
+   color: white;
+   background-color: #011533;
+}
+.lice{
+   margin-left: 120px;
+   font-family: 'Roboto', sans-serif;
+   /* padding: 5px; */
+}
+.port{
+  display: flex;
+  justify-content: center;
+  font-family: 'PT Sans', sans-serif;
+}
+.para3{
+  margin-left: 530px;
+  font-family: 'PT Sans', sans-serif;
+}
+.container10{
+   width: 100%;
+   background-color: #011533;
+   display: flex;
+   justify-content: space-around;
+   color: white;
+}
+.side10 p{
+   width: 37%;
+}
+.side10 a{
+   color: white;
+}
+
